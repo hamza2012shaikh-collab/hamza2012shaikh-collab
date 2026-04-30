@@ -45,3 +45,13 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hamza2012shaikh-collab&color=00F0FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
+  </picture>
+</div>
+
+
